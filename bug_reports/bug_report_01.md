@@ -45,7 +45,9 @@ The user see the following message "Ако има регистриран ака�
 ---
 
 ### Screenshot:
+
 ![Screenshot of the bug](screenshots/changepassword.png)
+
 
 ---
 
