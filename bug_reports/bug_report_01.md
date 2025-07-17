@@ -33,13 +33,13 @@ When a user clicks the "Забравили сте паролата си?" button
 
 ## Expected results
 
-The user should see the following message: *Ако има регистриран акаунт при нас dvt1@abv.bg, ще получите имейл с връзка, за да смените паролата си.* and after that he should received an email for change his password.
+The user should see the following message: "Ако има регистриран акаунт при нас dvt1@abv.bg, ще получите имейл с връзка, за да смените паролата си." and after that he should received an email for change his password.
 
 ---
 
 ## Actual results
 
-The user see the following message *Ако има регистриран акаунт при нас dvt1@abv.bg, ще получите имейл с връзка, за да смените паролата си.*, but he doesn't receive an email for change his password.
+The user see the following message "Ако има регистриран акаунт при нас dvt1@abv.bg, ще получите имейл с връзка, за да смените паролата си.", but he doesn't receive an email for change his password.
 
 
 ---
